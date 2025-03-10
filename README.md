@@ -1,7 +1,7 @@
 # simple-tst
 
 ## Dependencies
-- Python 3+
+- Python 3.9+
 - numpy
 - matplotlib
 

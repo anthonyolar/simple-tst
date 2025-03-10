@@ -7,3 +7,6 @@
 
 ## Usage
 python3 main.py
+
+## Example Image
+![Example](img/example.png)
